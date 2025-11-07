@@ -1,0 +1,154 @@
+/* Reset des styles par défaut */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Styles généraux */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #746363;
+}
+
+/* En-tête */
+header {
+    background-color: #333;
+    color: rgb(117, 39, 104);
+    padding: 1rem 0;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header nav ul li a:hover {
+    color: #ff6347;
+}
+
+/* Section Héros */
+.hero {
+    background-color: #0a2642;
+    color: #fff;
+    padding: 2rem;
+    text-align: center;
+}
+
+.hero-content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.hero-content p {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+}
+
+.hero-content button {
+    background-color: #3b570f;
+    color: rgb(21, 21, 22);
+    border: none;
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.hero-content button:hover {
+    background-color: #ff4500;
+}
+
+/* Section Projets */
+.projects {
+    padding: 2rem;
+    text-align: center;
+}
+
+.projects h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.project-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.project-card {
+    background-color: rgb(124, 144, 236);
+    border: 1px solid rgb(8, 8, 8);
+    border-radius: 5px;
+    padding: 1rem;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.project-card img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.project-card h3 {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+}
+
+.project-card p {
+    font-size: 1rem;
+    color: #666;
+}
+
+/* Section Compétences */
+.skills {
+    padding: 2rem;
+    text-align: center;
+}
+
+.skills h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.skills-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.skill-card {
+    background-color: rgb(53, 154, 236);
+    border: 1px solid rgb(22, 20, 20);
+    border-radius: 5px;
+    padding: 1rem;
+    width: 150px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.skill-card img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.skill-card h3 {
+    font-size: 1rem;
+    margin: 1rem 0;
+}
+
+/* Section Contact */
+.contact {
+}
