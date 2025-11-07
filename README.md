@@ -1,16 +1,29 @@
-## Hi there 👋
+markdown
+👋 Hello, moi c’est Grace !
 
-<!--
-**Grwessikavira/Grwessikavira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en informatique à *l'IAGE*  
+💻 Je conçois des *solutions informatiques* pour simplifier la vie  
+🛠️ Je travaille principalement avec :  
+- `PHP`  
+- `HTML/CSS`  
+- `Visual Studio Code`  
+- `Git & GitHub`
 
-Here are some ideas to get you started:
+🚀 Compétences
+- Développement Web (Front-end & Back-end)
+- Création d’interfaces utilisateurs simples
+- Résolution de problèmes techniques
+- Tests et débogage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 En apprentissage
+- JavaScript
+- MySQL
+- Laravel
+
+📫 Contact
+- Email : grwessikavira4@gmail.com
+
+> "Le code, c’est ma langue secrète pour changer le monde."
+
+
+
