@@ -3,6 +3,9 @@ markdown
 
 🎓 Étudiante en informatique à *l'IAGE*  
 💻 Je conçois des *solutions informatiques* pour simplifier la vie  
+
+Mon portofolio:https://grwessikavira.github.io/portofolio/
+
 🛠️ Je travaille principalement avec :  
 - `PHP`  
 - `HTML/CSS`  
